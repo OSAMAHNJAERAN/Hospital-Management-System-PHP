@@ -20,13 +20,13 @@ The **Unified Patient Healthcare Portal** (Medical System) is a comprehensive we
 
 ## 📷 Screenshots
 
-![Dashboard 1](assets/dashboard_1.png)
+![Dashboard 1](media/dashboard1.png)
 *Figure 1: Main medical system landing and service overview.*
 
-![Dashboard 2](assets/dashboard_2.png)
+![Dashboard 2](media/dashboard2.png)
 *Figure 2: Patient and appointment managerial interface.*
 
-![Dashboard 3](assets/dashboard_3.png)
+![Dashboard 3](media/dashboard3.png)
 *Figure 3: Secure user authentication and system login.*
 
 ## 📂 Project Structure
