@@ -1,4 +1,6 @@
-# 🏥 Unified Patient Healthcare Portal (HMS)
+﻿# 🏥 Unified Patient Healthcare Portal (HMS)
+
+### 📘 Course Project: TSE6223-SOFTWARE ENGINE FUNDAMENTALS
 
 [![Language: PHP](https://img.shields.io/badge/Language-PHP-777BB4?style=for-the-badge&logo=php)](https://php.net/)
 [![Database: MySQL](https://img.shields.io/badge/Database-MySQL-4479A1?style=for-the-badge&logo=mysql)](https://mysql.com/)
